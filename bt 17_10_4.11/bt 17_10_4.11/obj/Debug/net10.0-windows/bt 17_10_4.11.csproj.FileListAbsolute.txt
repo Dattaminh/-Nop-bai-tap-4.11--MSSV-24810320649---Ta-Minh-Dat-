@@ -1,0 +1,17 @@
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\bin\Debug\net10.0-windows\bt 17_10_4.11.exe
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\bin\Debug\net10.0-windows\bt 17_10_4.11.deps.json
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\bin\Debug\net10.0-windows\bt 17_10_4.11.runtimeconfig.json
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\bin\Debug\net10.0-windows\bt 17_10_4.11.dll
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\bin\Debug\net10.0-windows\bt 17_10_4.11.pdb
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt_17_10_4._11.Form1.resources
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.csproj.GenerateResource.cache
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.AssemblyInfoInputs.cache
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.AssemblyInfo.cs
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.csproj.CoreCompileInputs.cache
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.dll
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\refint\bt 17_10_4.11.dll
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.pdb
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10_4.11.genruntimeconfig.cache
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\ref\bt 17_10_4.11.dll
+D:\Lập trình.net\bt 17_10_4.11\bt 17_10_4.11\obj\Debug\net10.0-windows\bt 17_10.8348DDDE.Up2Date
